@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="ordersTest" key="{E506968A-47F5-44F4-955A-F36BA64D3E60}" path="ordersTest.js" />
+	</children>
+</Root>
