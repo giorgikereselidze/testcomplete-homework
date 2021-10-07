@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{F1D3EE30-C2A8-4AFF-801C-1D39E2C902F0}" version="14.0">
+	<Table Name="example1">
+		<Source Object="C:\Users\GIO\OneDrive\Desktop\example.xls">
+			<DataExtraction Type="ExcelTableSheet" SheetTitle="Sheet1" FirstRowIsHeader="True" />
+		</Source>
+		<Columns>
+			<Column CompareStyle="Default">customerName</Column>
+			<Column CompareStyle="Default">street</Column>
+			<Column CompareStyle="Default">city</Column>
+			<Column CompareStyle="Default">state</Column>
+		</Columns>
+		<Rows>
+			<Row>
+				<Cell Type="String">giorgi</Cell>
+				<Cell Type="String">gldani</Cell>
+				<Cell Type="String">tbilisi</Cell>
+				<Cell Type="String">georgia</Cell>
+			</Row>
+			<Row>
+				<Cell Type="String">nika</Cell>
+				<Cell Type="String">didube</Cell>
+				<Cell Type="String">tbilisi</Cell>
+				<Cell Type="String">georgia</Cell>
+			</Row>
+		</Rows>
+	</Table>
+</Root>

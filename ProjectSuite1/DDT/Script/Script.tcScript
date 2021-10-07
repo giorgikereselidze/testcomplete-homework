@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="databaseSetup" key="{AA263ECC-8D82-429B-93E0-7E50B112075C}" path="databaseSetup.js" />
+		<child name="executeDb" key="{5E130DBE-6447-4300-BD9E-17F6F6DA8590}" path="executeDb.js" />
+		<child name="readExcel" key="{7CB39352-95CB-4292-9277-8AC44C804FAA}" path="readExcel.js" />
+	</children>
+</Root>
