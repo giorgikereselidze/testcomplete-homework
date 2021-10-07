@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{70FC6ED0-A122-4A26-9B64-EDDBB2F11A49}" version="14.0">
+	<children>
+		<child name="example1" key="{5D1D26B7-0DF2-4717-B1D0-61BE3AD97BC5}" path="example1.tcTbl" />
+	</children>
+</Root>
